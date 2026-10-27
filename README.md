@@ -35,7 +35,7 @@ Phase-by-phase build plan: see [docs/phases/](docs/phases/).
 
 ## License
 
-Copyright (C) 2026 sovITxyz <git@sovit.xyz>
+Copyright (C) 2026 Sovereign Technology S.A.S. de C.V. <services@sovtech.pro>
 
 [AGPL-3.0-only](LICENSE). If you run a modified nbread.lol as a service, you
 must offer its source to your users.

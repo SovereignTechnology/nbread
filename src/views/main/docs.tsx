@@ -116,8 +116,8 @@ body { font-family: Georgia, serif; }
         <h2>Source & license</h2>
         <p>
           AGPL-3.0 —{" "}
-          <a href="https://github.com/sovITxyz/nbread">
-            github.com/sovITxyz/nbread
+          <a href="https://github.com/SovereignTechnology/nbread">
+            github.com/SovereignTechnology/nbread
           </a>
           . Run your own if you like.
         </p>

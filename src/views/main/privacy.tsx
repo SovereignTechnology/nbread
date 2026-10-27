@@ -71,8 +71,8 @@ export function PrivacyPage() {
         <h2>Source</h2>
         <p>
           nbread.lol is open source under AGPL-3.0:{" "}
-          <a href="https://github.com/sovITxyz/nbread">
-            github.com/sovITxyz/nbread
+          <a href="https://github.com/SovereignTechnology/nbread">
+            github.com/SovereignTechnology/nbread
           </a>
           .
         </p>
@@ -80,8 +80,8 @@ export function PrivacyPage() {
         <h2>Contact</h2>
         <p>
           Questions about this policy:{" "}
-          <a href="mailto:git@sovit.xyz">git@sovit.xyz</a> or open an issue on{" "}
-          <a href="https://github.com/sovITxyz/nbread">GitHub</a>.
+          <a href="mailto:services@sovtech.pro">services@sovtech.pro</a> or open an issue on{" "}
+          <a href="https://github.com/SovereignTechnology/nbread">GitHub</a>.
         </p>
       </main>
       <SiteFooter />

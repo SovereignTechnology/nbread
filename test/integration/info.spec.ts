@@ -32,7 +32,7 @@ describe("info pages (/privacy /terms /docs)", () => {
     for (const { path } of INFO_PAGES) {
       const res = await SELF.fetch(`https://nbread.lol${path}`);
       const html = await res.text();
-      expect(html, path).toContain("github.com/sovITxyz/nbread");
+      expect(html, path).toContain("github.com/SovereignTechnology/nbread");
     }
     // The license itself is named where it matters.
     const privacy = await SELF.fetch("https://nbread.lol/privacy");

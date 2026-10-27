@@ -17,7 +17,7 @@ import {
 } from "./protocol";
 
 /** Public source repository (NIP-11 `software`). */
-export const RELAY_SOFTWARE = "https://github.com/sovITxyz/nbread";
+export const RELAY_SOFTWARE = "https://github.com/SovereignTechnology/nbread";
 /** Relay implementation version (NIP-11 `version`). */
 export const RELAY_VERSION = "0.1.0";
 /**

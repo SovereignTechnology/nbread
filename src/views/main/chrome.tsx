@@ -50,14 +50,14 @@ export function SiteFooter() {
       <p>
         <a href="/privacy">Privacy</a> · <a href="/terms">Terms</a> ·{" "}
         <a href="/docs">Docs</a> ·{" "}
-        <a href="https://github.com/sovITxyz/nbread" rel="noopener">
+        <a href="https://github.com/SovereignTechnology/nbread" rel="noopener">
           Source (AGPL)
         </a>
       </p>
       <p>
         Created by{" "}
-        <a href="https://sovit.xyz" rel="noopener">
-          sovit.xyz
+        <a href="https://www.sovtech.pro/" rel="noopener">
+          Sovereign Technology
         </a>{" "}
         — inspired by{" "}
         <a href="https://herman.bearblog.dev" rel="noopener">

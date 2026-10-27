@@ -47,8 +47,8 @@ export function TermsPage() {
 
         <h2>Contact</h2>
         <p>
-          <a href="mailto:git@sovit.xyz">git@sovit.xyz</a> or the{" "}
-          <a href="https://github.com/sovITxyz/nbread">GitHub repo</a>.
+          <a href="mailto:services@sovtech.pro">services@sovtech.pro</a> or the{" "}
+          <a href="https://github.com/SovereignTechnology/nbread">GitHub repo</a>.
         </p>
       </main>
       <SiteFooter />

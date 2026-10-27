@@ -344,7 +344,7 @@ describe("nip11Document", () => {
     const doc = nip11Document(fakeEnv());
     expect(doc.name).toBe("nbread relay");
     expect(doc.supported_nips).toEqual([1, 9, 11, 42]);
-    expect(doc.software).toBe("https://github.com/sovITxyz/nbread");
+    expect(doc.software).toBe("https://github.com/SovereignTechnology/nbread");
     expect(typeof doc.version).toBe("string");
     expect(doc.limitation).toEqual({
       auth_required: false,
